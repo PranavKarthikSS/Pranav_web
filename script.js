@@ -133,7 +133,6 @@ document.querySelectorAll("section").forEach(section => {
 // ==========================
 
 const roles = [
-
 ];
 
 let roleIndex = 0;
