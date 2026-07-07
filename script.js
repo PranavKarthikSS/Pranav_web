@@ -134,14 +134,6 @@ document.querySelectorAll("section").forEach(section => {
 
 const roles = [
 
-    "IoT Developer",
-
-    "AI / ML Enthusiast",
-
-    "Flutter Developer",
-
-    "Full Stack Developer"
-
 ];
 
 let roleIndex = 0;
